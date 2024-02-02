@@ -19,6 +19,10 @@ h1, p{
 	height: 250px;
 	width: 250px;
 	border-radius: 50%;
+	box-shadow: 4px 4px 8px rgba(20, 20, 20, 0.5);
+}
+.work {
+	box-shadow: 2px 2px 2px #00512b;
 }
 
 body{
@@ -59,7 +63,7 @@ SVG Icons
 
 
 #landing {
-
+	height: 50vh;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
